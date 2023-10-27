@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\WorkWithFIle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\WorkWithFIle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\WorkWithFIle.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\WorkWithFIle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\bin\Debug\net6.0\WorkWithFIle.exe
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\bin\Debug\net6.0\WorkWithFIle.deps.json
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\bin\Debug\net6.0\WorkWithFIle.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\bin\Debug\net6.0\WorkWithFIle.dll
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\bin\Debug\net6.0\WorkWithFIle.pdb
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\WorkWithFIle.dll
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\refint\WorkWithFIle.dll
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\WorkWithFIle.pdb
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\WorkWithFIle.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\File\WorkWithFIle\obj\Debug\net6.0\ref\WorkWithFIle.dll
